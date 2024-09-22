@@ -14,7 +14,7 @@ My purpose for this software was to demonstate the very fundamentals of Python a
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](https://youtu.be/7dRDh9vJ2V0)
+[Software Demo Video](https://www.youtube.com/watch?v=7dRDh9vJ2V0)
 
 # Development Environment
 
